@@ -10,5 +10,4 @@
         "128" : "logo.png"
     },
     "permissions" : ["activeTab"]
-
 }
